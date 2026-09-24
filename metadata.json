@@ -1,0 +1,6 @@
+{
+  "name": "WikiArt Multi-Task Deep Learning & Streamlit Suite",
+  "description": "Production-grade multi-head deep learning pipeline for WikiArt genre and century prediction with ConvNeXt, modern augmentations, Grad-CAM, and interactive inference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
